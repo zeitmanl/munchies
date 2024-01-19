@@ -9,4 +9,5 @@ This game is originally for PowerPC, so I ran an emulator and used ResEdit to ex
 The original game can be found here: http://www.mikefan.com/munchies/
 
 To run this game, you'll need Greenfoot. Greenfoot is a free Java/Stride IDE available at https://www.greenfoot.org/download
+
 Once you've downloaded Greenfoot and all the files in the repository, simply open the .gfar file.
